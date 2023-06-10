@@ -30,4 +30,4 @@ spec:
   owner: where-for-dinner-team
   system: where-for-dinner
   definition:
-    $text: https://tap-gui.kapte.link/api/availability/v3/api-docs/
+    $text: http://tap-gui.kapte.link/api/availability/v3/api-docs/
